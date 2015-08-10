@@ -1,0 +1,381 @@
+Fixtures,Half time GD,Expected FT Goal Difference,Actual FT Goal Difference,Goal error (Pred - Actual)
+Arsenal vs. Crystal Palace,0,1.0,1,0.0
+Leicester vs. Everton,-1,0.0,0,0.0
+Man United vs. Swansea,-1,1.0,-1,2.0
+QPR vs. Hull,0,1.0,-1,2.0
+Stoke vs. Aston Villa,0,1.0,-1,2.0
+West Brom vs. Sunderland,0,0.0,0,0.0
+West Ham vs. Tottenham,0,0.0,-1,1.0
+Liverpool vs. Southampton,1,-1.0,1,-2.0
+Newcastle vs. Man City,-1,-1.0,-2,1.0
+Burnley vs. Chelsea,-2,-1.0,-2,1.0
+Aston Villa vs. Newcastle,0,-1.0,0,-1.0
+Chelsea vs. Leicester,0,1.0,2,-1.0
+Crystal Palace vs. West Ham,-2,-1.0,-2,1.0
+Everton vs. Arsenal,2,1.0,0,1.0
+Southampton vs. West Brom,0,0.0,0,0.0
+Swansea vs. Burnley,1,1.0,1,0.0
+Hull vs. Stoke,1,1.0,0,1.0
+Sunderland vs. Man United,0,0.0,0,0.0
+Tottenham vs. QPR,3,2.0,4,-2.0
+Man City vs. Liverpool,1,1.0,2,-1.0
+Burnley vs. Man United,0,1.0,0,1.0
+Everton vs. Chelsea,-1,1.0,-3,4.0
+Man City vs. Stoke,0,1.0,-1,2.0
+Newcastle vs. Crystal Palace,0,0.0,0,0.0
+QPR vs. Sunderland,1,0.0,1,-1.0
+Swansea vs. West Brom,2,2.0,3,-1.0
+West Ham vs. Southampton,0,-1.0,-2,1.0
+Aston Villa vs. Hull,2,2.0,1,1.0
+Leicester vs. Arsenal,0,0.0,0,0.0
+Tottenham vs. Liverpool,-1,-1.0,-3,2.0
+Arsenal vs. Man City,-1,-1.0,0,-1.0
+Chelsea vs. Swansea,0,1.0,2,-1.0
+Crystal Palace vs. Burnley,0,1.0,0,1.0
+Liverpool vs. Aston Villa,-1,0.0,-1,1.0
+Southampton vs. Newcastle,2,2.0,4,-2.0
+Stoke vs. Leicester,0,1.0,-1,2.0
+Sunderland vs. Tottenham,0,0.0,0,0.0
+West Brom vs. Everton,-1,-1.0,-2,1.0
+Man United vs. QPR,3,2.0,4,-2.0
+Hull vs. West Ham,1,0.0,0,0.0
+Aston Villa vs. Arsenal,-3,-1.0,-3,2.0
+Burnley vs. Sunderland,0,0.0,0,0.0
+Newcastle vs. Hull,0,1.0,0,1.0
+QPR vs. Stoke,0,0.0,0,0.0
+Swansea vs. Southampton,0,0.0,-1,1.0
+West Ham vs. Liverpool,1,-1.0,2,-3.0
+Everton vs. Crystal Palace,0,0.0,-1,1.0
+Leicester vs. Man United,-1,0.0,2,-2.0
+Man City vs. Chelsea,0,0.0,0,0.0
+Tottenham vs. West Brom,0,1.0,-1,2.0
+Arsenal vs. Tottenham,0,1.0,0,1.0
+Chelsea vs. Aston Villa,1,2.0,3,-1.0
+Crystal Palace vs. Leicester,0,1.0,2,-1.0
+Hull vs. Man City,0,1.0,-2,3.0
+Liverpool vs. Everton,0,-1.0,0,-1.0
+Man United vs. West Ham,1,1.0,1,0.0
+Southampton vs. QPR,0,1.0,1,0.0
+Sunderland vs. Swansea,0,0.0,0,0.0
+West Brom vs. Burnley,2,2.0,4,-2.0
+Stoke vs. Newcastle,1,1.0,1,0.0
+Aston Villa vs. Man City,0,0.0,-2,2.0
+Hull vs. Crystal Palace,0,0.0,2,-2.0
+Leicester vs. Burnley,1,2.0,0,2.0
+Liverpool vs. West Brom,1,1.0,1,0.0
+Sunderland vs. Stoke,1,0.0,2,-2.0
+Swansea vs. Newcastle,0,-1.0,0,-1.0
+Chelsea vs. Arsenal,1,1.0,2,-1.0
+Man United vs. Everton,1,0.0,1,-1.0
+Tottenham vs. Southampton,1,1.0,1,0.0
+West Ham vs. QPR,1,1.0,2,-1.0
+Arsenal vs. Hull,0,0.0,0,0.0
+Burnley vs. West Ham,0,1.0,-2,3.0
+Crystal Palace vs. Chelsea,-1,0.0,-1,1.0
+Everton vs. Aston Villa,1,1.0,3,-2.0
+Man City vs. Tottenham,1,1.0,3,-2.0
+Newcastle vs. Leicester,0,0.0,1,-1.0
+Southampton vs. Sunderland,3,2.0,8,-6.0
+QPR vs. Liverpool,0,0.0,-1,1.0
+Stoke vs. Swansea,0,-1.0,1,-2.0
+West Brom vs. Man United,1,0.0,0,0.0
+Liverpool vs. Hull,0,0.0,0,0.0
+Southampton vs. Stoke,1,2.0,1,1.0
+Sunderland vs. Arsenal,-1,0.0,-2,2.0
+Swansea vs. Leicester,1,0.0,2,-2.0
+West Brom vs. Crystal Palace,-2,-1.0,0,-1.0
+West Ham vs. Man City,1,-1.0,1,-2.0
+Burnley vs. Everton,-1,-1.0,-2,1.0
+Man United vs. Chelsea,0,1.0,0,1.0
+Tottenham vs. Newcastle,1,1.0,-1,2.0
+QPR vs. Aston Villa,1,0.0,2,-2.0
+Arsenal vs. Burnley,0,0.0,3,-3.0
+Chelsea vs. QPR,1,2.0,1,1.0
+Everton vs. Swansea,0,0.0,0,0.0
+Hull vs. Southampton,-1,-1.0,-1,0.0
+Leicester vs. West Brom,0,0.0,-1,1.0
+Newcastle vs. Liverpool,0,-1.0,1,-2.0
+Stoke vs. West Ham,1,0.0,0,0.0
+Aston Villa vs. Tottenham,1,0.0,-1,1.0
+Man City vs. Man United,0,1.0,1,0.0
+Crystal Palace vs. Sunderland,-1,-1.0,-2,1.0
+Burnley vs. Hull,0,1.0,1,0.0
+Liverpool vs. Chelsea,0,-1.0,-1,0.0
+Man United vs. Crystal Palace,0,1.0,1,0.0
+QPR vs. Man City,0,1.0,0,1.0
+Southampton vs. Leicester,0,0.0,2,-2.0
+West Ham vs. Aston Villa,0,0.0,0,0.0
+Sunderland vs. Everton,0,0.0,0,0.0
+Swansea vs. Arsenal,0,0.0,1,-1.0
+Tottenham vs. Stoke,-2,-1.0,-1,0.0
+West Brom vs. Newcastle,-1,-1.0,-2,1.0
+Arsenal vs. Man United,0,1.0,-1,2.0
+Chelsea vs. West Brom,2,2.0,2,0.0
+Everton vs. West Ham,1,0.0,1,-1.0
+Leicester vs. Sunderland,0,0.0,0,0.0
+Man City vs. Swansea,0,-1.0,1,-2.0
+Newcastle vs. QPR,0,1.0,1,0.0
+Stoke vs. Burnley,-1,0.0,-1,1.0
+Crystal Palace vs. Liverpool,0,1.0,2,-1.0
+Hull vs. Tottenham,1,0.0,-1,1.0
+Aston Villa vs. Southampton,1,0.0,0,0.0
+Burnley vs. Aston Villa,-1,-2.0,0,-2.0
+Liverpool vs. Stoke,0,1.0,1,0.0
+Man United vs. Hull,2,3.0,3,0.0
+QPR vs. Leicester,1,0.0,1,-1.0
+Sunderland vs. Chelsea,0,0.0,0,0.0
+Swansea vs. Crystal Palace,0,-1.0,0,-1.0
+West Brom vs. Arsenal,0,0.0,-1,1.0
+West Ham vs. Newcastle,0,0.0,1,-1.0
+Southampton vs. Man City,0,0.0,-3,3.0
+Tottenham vs. Everton,1,-1.0,1,-2.0
+Burnley vs. Newcastle,1,1.0,0,1.0
+Crystal Palace vs. Aston Villa,-1,-1.0,-1,0.0
+Leicester vs. Liverpool,0,0.0,-2,2.0
+Man United vs. Stoke,0,0.0,1,-1.0
+Swansea vs. QPR,0,1.0,2,-1.0
+West Brom vs. West Ham,-1,-1.0,-1,0.0
+Arsenal vs. Southampton,0,1.0,1,0.0
+Chelsea vs. Tottenham,2,1.0,3,-2.0
+Everton vs. Hull,1,0.0,0,0.0
+Sunderland vs. Man City,-1,-1.0,-3,2.0
+Hull vs. West Brom,0,0.0,0,0.0
+Liverpool vs. Sunderland,0,1.0,0,1.0
+Man City vs. Everton,1,1.0,1,0.0
+Newcastle vs. Chelsea,0,-1.0,1,-2.0
+QPR vs. Burnley,0,0.0,2,-2.0
+Stoke vs. Arsenal,3,2.0,1,1.0
+Tottenham vs. Crystal Palace,0,-1.0,0,-1.0
+Aston Villa vs. Leicester,0,0.0,1,-1.0
+West Ham vs. Swansea,0,0.0,2,-2.0
+Southampton vs. Man United,0,0.0,-1,1.0
+Arsenal vs. Newcastle,1,2.0,3,-1.0
+Burnley vs. Southampton,0,0.0,1,-1.0
+Chelsea vs. Hull,1,1.0,2,-1.0
+Crystal Palace vs. Stoke,0,0.0,0,0.0
+Leicester vs. Man City,-1,-1.0,-1,0.0
+Sunderland vs. West Ham,0,0.0,0,0.0
+West Brom vs. Aston Villa,0,1.0,1,0.0
+Man United vs. Liverpool,2,1.0,3,-2.0
+Swansea vs. Tottenham,-1,0.0,-1,1.0
+Everton vs. QPR,2,2.0,2,0.0
+Aston Villa vs. Man United,1,0.0,0,0.0
+Hull vs. Swansea,-1,-1.0,-1,0.0
+Man City vs. Crystal Palace,0,1.0,3,-2.0
+QPR vs. West Brom,-1,-1.0,1,-2.0
+Southampton vs. Everton,1,1.0,3,-2.0
+Tottenham vs. Burnley,1,0.0,1,-1.0
+West Ham vs. Leicester,1,0.0,2,-2.0
+Liverpool vs. Arsenal,0,-1.0,0,-1.0
+Newcastle vs. Sunderland,0,0.0,-1,1.0
+Stoke vs. Chelsea,-1,-1.0,-2,1.0
+Arsenal vs. QPR,1,1.0,1,0.0
+Burnley vs. Liverpool,0,1.0,-1,2.0
+Chelsea vs. West Ham,1,2.0,2,0.0
+Crystal Palace vs. Southampton,-1,-1.0,-2,1.0
+Everton vs. Stoke,-1,0.0,-1,1.0
+Leicester vs. Tottenham,-1,-2.0,-1,-1.0
+Man United vs. Newcastle,2,2.0,2,0.0
+Sunderland vs. Hull,0,-1.0,-2,1.0
+Swansea vs. Aston Villa,1,1.0,1,0.0
+West Brom vs. Man City,-3,-1.0,-2,1.0
+Aston Villa vs. Sunderland,0,1.0,0,1.0
+Hull vs. Leicester,-1,0.0,-1,1.0
+Man City vs. Burnley,2,3.0,0,3.0
+Newcastle vs. Everton,0,1.0,1,0.0
+QPR vs. Crystal Palace,0,0.0,0,0.0
+Southampton vs. Chelsea,0,-1.0,0,-1.0
+Stoke vs. West Brom,0,-1.0,2,-3.0
+Tottenham vs. Man United,0,-1.0,0,-1.0
+West Ham vs. Arsenal,-2,-1.0,-1,0.0
+Liverpool vs. Swansea,1,1.0,3,-2.0
+Aston Villa vs. Crystal Palace,0,0.0,0,0.0
+Hull vs. Everton,2,2.0,2,0.0
+Liverpool vs. Leicester,2,1.0,0,1.0
+Man City vs. Sunderland,0,0.0,1,-1.0
+Newcastle vs. Burnley,1,1.0,0,1.0
+QPR vs. Swansea,1,2.0,0,2.0
+Southampton vs. Arsenal,1,0.0,2,-2.0
+Stoke vs. Man United,0,0.0,0,0.0
+Tottenham vs. Chelsea,2,2.0,2,0.0
+West Ham vs. West Brom,0,-1.0,0,-1.0
+Burnley vs. QPR,1,2.0,1,1.0
+Chelsea vs. Newcastle,1,1.0,2,-1.0
+Crystal Palace vs. Tottenham,0,1.0,1,0.0
+Everton vs. Man City,0,1.0,0,1.0
+Leicester vs. Aston Villa,1,1.0,1,0.0
+Sunderland vs. Liverpool,-1,-1.0,-1,0.0
+Swansea vs. West Ham,-1,-1.0,0,-1.0
+West Brom vs. Hull,0,1.0,1,0.0
+Arsenal vs. Stoke,2,2.0,3,-1.0
+Man United vs. Southampton,0,1.0,-1,2.0
+Aston Villa vs. Liverpool,-1,-1.0,-2,1.0
+Burnley vs. Crystal Palace,1,2.0,-1,3.0
+Leicester vs. Stoke,0,0.0,-1,1.0
+Newcastle vs. Southampton,0,0.0,-1,1.0
+QPR vs. Man United,0,0.0,-2,2.0
+Swansea vs. Chelsea,-4,-1.0,-5,4.0
+Tottenham vs. Sunderland,0,1.0,1,0.0
+Man City vs. Arsenal,-1,-1.0,-2,1.0
+West Ham vs. Hull,0,0.0,3,-3.0
+Everton vs. West Brom,0,1.0,0,1.0
+Chelsea vs. Man City,0,-1.0,0,-1.0
+Crystal Palace vs. Everton,-1,0.0,-1,1.0
+Hull vs. Newcastle,-1,-2.0,-3,1.0
+Liverpool vs. West Ham,0,2.0,2,0.0
+Man United vs. Leicester,3,2.0,2,0.0
+Stoke vs. QPR,1,0.0,2,-2.0
+Sunderland vs. Burnley,2,2.0,2,0.0
+West Brom vs. Tottenham,-2,-1.0,-3,2.0
+Arsenal vs. Aston Villa,1,1.0,5,-4.0
+Southampton vs. Swansea,0,1.0,-1,2.0
+Aston Villa vs. Chelsea,-1,-1.0,-1,0.0
+Everton vs. Liverpool,0,0.0,0,0.0
+Leicester vs. Crystal Palace,0,1.0,-1,2.0
+Man City vs. Hull,-1,-1.0,0,-1.0
+QPR vs. Southampton,0,0.0,-1,1.0
+Swansea vs. Sunderland,-1,0.0,0,0.0
+Tottenham vs. Arsenal,-1,-2.0,1,-3.0
+Burnley vs. West Brom,1,2.0,0,2.0
+Newcastle vs. Stoke,0,0.0,0,0.0
+West Ham vs. Man United,0,0.0,0,0.0
+Arsenal vs. Leicester,2,2.0,1,1.0
+Hull vs. Aston Villa,1,0.0,2,-2.0
+Liverpool vs. Tottenham,0,0.0,1,-1.0
+Sunderland vs. QPR,-2,0.0,-2,2.0
+Chelsea vs. Everton,0,1.0,1,0.0
+Crystal Palace vs. Newcastle,-1,0.0,0,0.0
+Man United vs. Burnley,1,1.0,2,-1.0
+Southampton vs. West Ham,0,1.0,0,1.0
+Stoke vs. Man City,0,0.0,-3,3.0
+West Brom vs. Swansea,0,1.0,2,-1.0
+Aston Villa vs. Stoke,0,0.0,-1,1.0
+Chelsea vs. Burnley,1,2.0,0,2.0
+Crystal Palace vs. Arsenal,-2,-1.0,-1,0.0
+Hull vs. QPR,0,0.0,1,-1.0
+Man City vs. Newcastle,3,2.0,5,-3.0
+Sunderland vs. West Brom,0,1.0,0,1.0
+Swansea vs. Man United,0,0.0,1,-1.0
+Everton vs. Leicester,0,-2.0,0,-2.0
+Southampton vs. Liverpool,-1,0.0,-2,2.0
+Tottenham vs. West Ham,-1,0.0,0,0.0
+Burnley vs. Swansea,0,1.0,-1,2.0
+Man United vs. Sunderland,0,1.0,2,-1.0
+Newcastle vs. Aston Villa,1,2.0,1,1.0
+Stoke vs. Hull,0,1.0,1,0.0
+West Brom vs. Southampton,1,1.0,1,0.0
+West Ham vs. Crystal Palace,-1,0.0,-2,2.0
+Arsenal vs. Everton,1,1.0,2,-1.0
+Liverpool vs. Man City,0,0.0,1,-1.0
+Aston Villa vs. West Brom,1,2.0,1,1.0
+Hull vs. Sunderland,1,2.0,0,2.0
+Southampton vs. Crystal Palace,0,0.0,1,-1.0
+Liverpool vs. Burnley,1,2.0,2,0.0
+Man City vs. Leicester,1,2.0,2,0.0
+Newcastle vs. Man United,0,1.0,-1,2.0
+QPR vs. Arsenal,0,0.0,-1,1.0
+Stoke vs. Everton,1,1.0,2,-1.0
+Tottenham vs. Swansea,0,1.0,1,0.0
+West Ham vs. Chelsea,-1,-2.0,-1,-1.0
+QPR vs. Tottenham,-1,1.0,-1,2.0
+Arsenal vs. West Ham,1,2.0,3,-1.0
+Burnley vs. Man City,0,0.0,1,-1.0
+Crystal Palace vs. QPR,3,2.0,2,0.0
+Leicester vs. Hull,0,0.0,0,0.0
+Sunderland vs. Aston Villa,-4,-2.0,-4,2.0
+West Brom vs. Stoke,1,1.0,1,0.0
+Chelsea vs. Southampton,0,0.0,0,0.0
+Everton vs. Newcastle,1,2.0,3,-1.0
+Man United vs. Tottenham,3,2.0,3,-1.0
+Swansea vs. Liverpool,0,0.0,-1,1.0
+Aston Villa vs. Swansea,0,1.0,-1,2.0
+Man City vs. West Brom,2,2.0,3,-1.0
+Newcastle vs. Arsenal,-2,-1.0,-1,0.0
+Southampton vs. Burnley,1,3.0,2,1.0
+Stoke vs. Crystal Palace,-1,0.0,-1,1.0
+Tottenham vs. Leicester,1,-1.0,1,-2.0
+West Ham vs. Sunderland,0,0.0,1,-1.0
+Hull vs. Chelsea,0,2.0,-1,3.0
+Liverpool vs. Man United,-1,-1.0,-1,0.0
+QPR vs. Everton,-1,-1.0,-1,0.0
+Arsenal vs. Liverpool,3,2.0,3,-1.0
+Chelsea vs. Stoke,0,1.0,1,0.0
+Everton vs. Southampton,1,1.0,1,0.0
+Leicester vs. West Ham,0,1.0,1,0.0
+Man United vs. Aston Villa,1,1.0,2,-1.0
+Swansea vs. Hull,2,2.0,2,0.0
+West Brom vs. QPR,-3,0.0,-3,3.0
+Burnley vs. Tottenham,0,1.0,0,1.0
+Sunderland vs. Newcastle,1,1.0,1,0.0
+Crystal Palace vs. Man City,1,1.0,1,0.0
+Aston Villa vs. QPR,1,2.0,0,2.0
+Burnley vs. Arsenal,-1,-1.0,-1,0.0
+Southampton vs. Hull,0,1.0,2,-1.0
+Sunderland vs. Crystal Palace,0,1.0,-3,4.0
+Swansea vs. Everton,-1,0.0,0,0.0
+Tottenham vs. Aston Villa,-1,0.0,-1,1.0
+West Brom vs. Leicester,1,1.0,-1,2.0
+West Ham vs. Stoke,1,1.0,0,1.0
+Man United vs. Man City,1,2.0,2,0.0
+QPR vs. Chelsea,0,1.0,-1,2.0
+Liverpool vs. Newcastle,1,1.0,2,-1.0
+Chelsea vs. Man United,1,1.0,1,0.0
+Crystal Palace vs. West Brom,-1,-1.0,-2,1.0
+Everton vs. Burnley,1,2.0,1,1.0
+Leicester vs. Swansea,1,3.0,2,1.0
+Stoke vs. Southampton,-1,-1.0,1,-2.0
+Man City vs. West Ham,2,2.0,2,0.0
+Newcastle vs. Tottenham,-1,0.0,-2,2.0
+Burnley vs. Leicester,0,1.0,-1,2.0
+Crystal Palace vs. Hull,0,0.0,-2,2.0
+Man City vs. Aston Villa,1,-1.0,1,-2.0
+Newcastle vs. Swansea,0,0.0,-1,1.0
+QPR vs. West Ham,0,1.0,0,1.0
+Southampton vs. Tottenham,0,0.0,0,0.0
+Stoke vs. Sunderland,0,0.0,0,0.0
+West Brom vs. Liverpool,0,1.0,0,1.0
+Arsenal vs. Chelsea,0,1.0,0,1.0
+Everton vs. Man United,2,2.0,3,-1.0
+Hull vs. Liverpool,1,0.0,1,-1.0
+Leicester vs. Chelsea,1,0.0,-2,2.0
+Aston Villa vs. Everton,2,2.0,1,1.0
+Leicester vs. Newcastle,2,2.0,3,-1.0
+Liverpool vs. QPR,1,1.0,1,0.0
+Man United vs. West Brom,0,1.0,-1,2.0
+Sunderland vs. Southampton,0,2.0,1,1.0
+Swansea vs. Stoke,0,1.0,2,-1.0
+West Ham vs. Burnley,1,1.0,1,0.0
+Chelsea vs. Crystal Palace,1,1.0,1,0.0
+Tottenham vs. Man City,-1,0.0,-1,1.0
+Hull vs. Arsenal,-3,-3.0,-2,-1.0
+Aston Villa vs. West Ham,1,2.0,1,1.0
+Crystal Palace vs. Man United,-1,0.0,-1,1.0
+Everton vs. Sunderland,0,0.0,-2,2.0
+Hull vs. Burnley,0,1.0,-1,2.0
+Leicester vs. Southampton,2,2.0,2,0.0
+Newcastle vs. West Brom,0,0.0,0,0.0
+Stoke vs. Tottenham,2,2.0,3,-1.0
+Chelsea vs. Liverpool,0,0.0,0,0.0
+Man City vs. QPR,2,2.0,6,-4.0
+Arsenal vs. Swansea,0,0.0,-1,1.0
+Burnley vs. Stoke,0,1.0,0,1.0
+Liverpool vs. Crystal Palace,0,1.0,-2,3.0
+QPR vs. Newcastle,-1,-2.0,1,-3.0
+Southampton vs. Aston Villa,4,1.0,5,-4.0
+Sunderland vs. Leicester,0,1.0,0,1.0
+Tottenham vs. Hull,0,1.0,2,-1.0
+West Ham vs. Everton,0,0.0,-1,1.0
+Man United vs. Arsenal,1,1.0,0,1.0
+Swansea vs. Man City,-1,-1.0,-2,1.0
+West Brom vs. Chelsea,1,0.0,3,-3.0
+Arsenal vs. Sunderland,0,1.0,0,1.0
+Arsenal vs. West Brom,4,2.0,3,-1.0
+Aston Villa vs. Burnley,-1,-1.0,-1,0.0
+Chelsea vs. Sunderland,0,1.0,2,-1.0
+Crystal Palace vs. Swansea,0,1.0,1,0.0
+Everton vs. Tottenham,-1,0.0,-1,1.0
+Hull vs. Man United,0,1.0,0,1.0
+Leicester vs. QPR,2,2.0,4,-2.0
+Man City vs. Southampton,1,2.0,2,0.0
+Newcastle vs. West Ham,0,-1.0,2,-3.0
+Stoke vs. Liverpool,5,1.0,5,-4.0
