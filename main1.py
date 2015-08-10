@@ -2,6 +2,7 @@ import re
 import numpy as np
 import pandas as pd
 import csv as csv 
+from sklearn.ensemble import RandomForestClassifier
 #Import all the data
 
 data_1314 = pd.read_csv('/Users/ChristopherSchon/Documents/PythonPractice/HTFT/PL1314.csv')
